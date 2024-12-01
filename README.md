@@ -2,4 +2,4 @@
 
 Puedes escuchar el audio haciendo clic en el siguiente enlace:
 
-[Escuchar Audio](Assets/AudioANTHONY.m4A)
+[Escuchar Audio](Assets/AudioPracticaU2.mp3)
